@@ -1,0 +1,41 @@
+@charset "utf-8";
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+html,
+body {
+    height: 100%;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-size: 100%;
+    font-weight: normal;
+    line-height: 1;
+}
+
+h2 {
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+em {
+    font-style: normal;
+}
+
+img {
+    vertical-align: middle;
+    border: none;
+}
